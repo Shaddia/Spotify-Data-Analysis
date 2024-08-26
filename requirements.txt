@@ -1,0 +1,8 @@
+pycountry
+numpy
+geopy
+collection
+streamlit
+plotly.express
+pandas
+pymongo
